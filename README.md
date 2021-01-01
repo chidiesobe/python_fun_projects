@@ -13,17 +13,21 @@ Feel free to fork and make changes, i will be more than happy to learn from you 
 
 YOUTUBE CHANNEL: https://www.youtube.com/channel/UCJVpVDZt2luBBItyCpXkEmA
 
-FOLDER STRUCTURE
+FOLDER STRUCTURE: 
+Beginners/
 1) Guessing Game
 2) Rock, Paper, Scissors
 3) Hangman 
 4) Password Generator
 5) Caesar Cipher
 
+Intermediate/ 
+1) Turtle Race
+
 All scripts are easy to run and were built using python 3 interpreter 
 1. Instal python 3
 2. navigate to the location of the script you wish to run using your terminal
-3. python script name e.g python guessing.py  to run the script 
+3. type "python script name" without the quotes e.g python guessing.py  to run the script 
 
 NOTE: some installations might require affixing 3 to the python name, i.e python3 before the script name.
 
