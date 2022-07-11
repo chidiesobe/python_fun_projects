@@ -20,6 +20,7 @@ Beginners/
 3) Hangman 
 4) Password Generator
 5) Caesar Cipher
+6) Birthday Problem / Paradox 
 
 Intermediate/ 
 1) Turtle Race
