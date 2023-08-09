@@ -24,7 +24,7 @@ Beginners/
 
 Intermediate/ 
 1) Turtle Race
-
+2) Clickbait generator
 All scripts are easy to run and were built using python 3 interpreter 
 1. Instal python 3
 2. navigate to the location of the script you wish to run using your terminal
