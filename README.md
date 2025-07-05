@@ -17,6 +17,7 @@ FOLDER STRUCTURE:
 - Birthday Problem / Paradox
 - Caesar Cipher
 - Clickbait generator
+- FastAPI password generator
 - Guessing Game
 - Hangman
 - Password Generator
